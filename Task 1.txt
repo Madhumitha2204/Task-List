@@ -6,24 +6,18 @@ TASK 1
       ***Distribution*** is a package management system and based upon linux kernel.
 Example commands:
 mkdir used to make a directory.The syntax is “mkdir directoryname”
-
 "mkdir madhu"
 If we need to create directory with a two words such as “madhu
 mitha”
-
 "mkdir madhu\mitha"
 To create a file in linux “vi filename.txt”
-
 "vi madhu.txt"
 To save the file in linux :w
-
 :W madhu    
 To save the file under the different name :w new_filename
-
 :W new_madhunew
 cp is used to copy files through the command line. It comprise of two arguments first is location to be copied and another one is
 where to be copied
-
 cp new.txt
 mv is used to move file through the command line and also used to rename the file.for example rename the “txt” to “new”
 "mv text new"
