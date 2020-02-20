@@ -14,4 +14,5 @@ In computer architecture, 64 bit refers to the number of bits which should be pr
  4. Its support the systems such as window 7,8,10,Linux,Max OS X.
  5. It will enable you to use 17 Billion GB of RAM 
 The advantage of 64bit processor is its allow virtual memory process and Provide security features.
+
 The maximum memory  of 32 bit is 4GB and 64bit is 16GB.
