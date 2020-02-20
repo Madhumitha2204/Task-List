@@ -1,4 +1,3 @@
-Linux Kernel
 The Linux kernel is the main component of a Linux operating system(OS) and is the core interface between a computer’s hardware and its processes. It communicates between the two, managing resources as efficiently as possible.
 The kernel has 4 jobs:
 Memory management: Keep track of how much memory is used to store what, and where
