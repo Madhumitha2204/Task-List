@@ -17,10 +17,9 @@ User can modify variation of source code Known as distribution for computer and 
  **Example-:W new_madhunew**
  6. **cp** is used to copy files through the command line. It comprise of two arguments first is location to be copied and another one is where to be copied
 **Example:cp new.txt /madhu**
- 7. To view a file use the syntax as "Cat filename"
+ 7. To view a content of file syntax as "cat filename"
 **Example:Cat madhu.txt**
  8. **mv** is used to move file through the command line and also used to rename the file.for example rename the “txt” to “new”"mv text  new"
   **Example: mv madhu madhu1**
- 9.**_rm_** is used to delete files and directory. To delete files and directory _“rm”_
+ 9. **_rm_** is used to delete files and directory. To delete files and directory _“rm”_
  **Example: "rm madhu.txt"**
-
