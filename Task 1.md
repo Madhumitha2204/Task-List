@@ -5,17 +5,24 @@ The major difference between the other operating systems and linux is sometimes 
 User can modify variation of source code Known as distribution for computer and other devices
 ***Distribution*** is a package management system and based upon linux kernel.The Distributions are Ubuntu,Redhat,etc.,
 ## **Example commands:**
- 1. **mkdir** used to make a directory.The syntax is “_mkdir directoryname_”
-Example:"mkdir madhu"
+ 1. **mkdir** used to make a directory.The syntax is “mkdir [directoryname]"
+**Example:"mkdir madhu"**
  2. If we need to create directory with a two words such as “madhu mitha”
-Example:"mkdir madhu\mitha"
- 3. To create a file in linux “_vi filename.txt_”
-Example:"vi madhu.txt"
- 4. To save the file in linux _:w_
-Example- :W madhu
- 5. To save the file under the different name _:w new_filename_
-Example-:W new_madhunew
- 6. **cp** is used to copy files through the command line. It comprise of two arguments first is location to be copied and another one is where to be copied
-Example:cp new.txt
- 7. **mv** is used to move file through the command line and also used to rename the file.for example rename the “txt” to “new”"mv text new"
- 8. **_rm_** is used to delete files and directory. To delete files and directory _“rm”_
+**Example:"mkdir madhu\mitha"**
+ 3. If we need to create a multiple directories,the syntax is "mkdir   [directoryname1],[directoryname2],[directoryname3]"
+**Example:"mkdir madhu1,madhu2,madhu3**
+ 4. To create a file in linux "vi filename"
+**Example:"vi madhu.txt" and "vi madhu.sh"**
+ 5. To save the file in linux _:w_
+**Example- :W madhu**
+ 6. To save the file under the different name _:w new_filename_
+ **Example-:W new_madhunew**
+ 7. **cp** is used to copy files through the command line. It comprise of two arguments first is location to be copied and another one is where to be copied
+**Example:cp new.txt \madhu**
+ 8. To view a file use the syntax as "Cat filename"
+**Example:Cat madhu.txt**
+ 9. **mv** is used to move file through the command line and also used to rename the file.for example rename the “txt” to “new”"mv text  new"
+ **Example: mv madhu to madhu1
+ 10. **_rm_** is used to delete files and directory. To delete files and directory _“rm”_
+ **Example: "rm madhu.txt"**
+
