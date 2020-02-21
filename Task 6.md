@@ -12,11 +12,13 @@
  10. Its used to construct where simple and specific function are required such as CNC machine and electronic device.
 ## Example:
 The machine language and assembly language is example of low level language
+
     **ORS**-MOVE R to S
     **000**-Halt
     **0XY**-Jump to XY always
 
-## **High Level Language:**
+
+# **High Level Language:**
 
  1. It is Interpreted by Programmers not by Machines.
  2. It easily understand by the users,It runnable by any Platforms.
