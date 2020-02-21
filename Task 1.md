@@ -22,7 +22,7 @@ User can modify variation of source code Known as distribution for computer and 
  8. To view a file use the syntax as "Cat filename"
 **Example:Cat madhu.txt**
  9. **mv** is used to move file through the command line and also used to rename the file.for example rename the “txt” to “new”"mv text  new"
- **Example: mv madhu to madhu1
+  **Example: mv madhu to madhu1**
  10. **_rm_** is used to delete files and directory. To delete files and directory _“rm”_
  **Example: "rm madhu.txt"**
 
