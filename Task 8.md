@@ -9,7 +9,7 @@
       print("python compiler version:"+platform.python_compiler()) #print compiler version
       Print("Machine name:"+platform.node()) #print machine name
      
-     **Flow Chart:**
+  **Flow Chart:**
 
  - Step 1: The first Line of `import platform` in that the platform is
    used to access the hardware ,operating system and interpreted version information.
