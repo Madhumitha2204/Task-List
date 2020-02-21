@@ -7,4 +7,4 @@ It is "***Free open source software***".anybody can write and modify coding in o
 It simplifies project development across many developers.GIT is distibuted version control and source control management software.
 To find the version of GIT on our Linux is
 
-    git__version
+    git--version
